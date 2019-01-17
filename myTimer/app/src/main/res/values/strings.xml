@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myTimer</string>
+
+    <!-- Button Labels -->
+    <string name="start_button_label">START</string>
+    <string name="stop_button_label">STOP</string>
+    <string name="lap_button_label">LAP</string>
+    <string name="resume_button_label">RESUME</string>
+    <string name="reset_button_label">RESET</string>
+
+    <!-- list of Toasts -->
+    <string name="lap_button_pressed_msg">You pressed the Lap Button!</string>
+
+</resources>
